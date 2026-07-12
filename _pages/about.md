@@ -30,6 +30,6 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a first-year Ph.D student at the University of Oxford, based in the Oxford Robotics Institute, supervised by Maurice Fallon in the Dynamic Robot Systems group. My research interests lie broadly in robotic perception, with a particular focus on localization and 3D reconstruction from raw sensor data such as LiDAR and cameras. I am also interested in scene understanding using semantics and spatio-temporal modeling.
+I'm a Ph.D student at the University of Oxford, based in the Oxford Robotics Institute, supervised by Maurice Fallon in the Dynamic Robot Systems group. My research interests lie broadly in robotic perception. My current focus is on semantic scene understanding, 3D reconstruction, and spatio-temporal, long-term robotics, with applications to industrial settings such as warehouses, construction sites, and urban monitoring and inspection scenarios.
 
 Prior to this, I completed my MEng at the University of Oxford, where I contributed to Digiforest, an EU research project on forest robotics, developing robust localization and mapping methods for challenging forest environments.
