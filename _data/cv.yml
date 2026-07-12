@@ -1,0 +1,120 @@
+cv:
+  # name: Haedam Oh
+  # label: PhD Student, Oxford Robotics Institute
+  # email: haedamoh1234@gmail.com
+  # location: Oxford, UK
+  # image: ""
+  # summary: PhD student researching robotic perception, localization, and 3D reconstruction from LiDAR and camera data.
+
+  # address: # remove/uncomment and fill in if you want a postal address on the CV
+  #   street: 2712 Broadway St
+  #   city: San Francisco
+  #   region: California
+  #   postalCode: CA 94115
+  #   countryCode: US
+
+  # social_networks: # uncomment and fill in with your own usernames
+  #   - network: X
+  #     username: example
+  #   - network: GitHub
+  #     username: example
+  #   - network: LinkedIn
+  #     username: example
+
+  sections:
+    Education:
+      - institution: University of Oxford
+        location: Oxford, UK
+        area: Department of Engineering Science
+        studyType: DPhil in Engineering Science (Ph.D)
+        logo: /assets/img/oxford-logo.png
+        start_date: 2024-09
+        # end_date intentionally omitted -- ongoing
+        highlights:
+          - "[Dynamic Robot Systems Group](https://ori-drs.github.io/)"
+          - "Supervised by [Prof. Maurice Fallon](https://ori.ox.ac.uk/people/maurice-fallon)"
+
+      - institution: University of Oxford
+        location: Oxford, UK
+        area: Department of Engineering Science
+        studyType: Master of Engineering Science (MEng)
+        logo: /assets/img/oxford-logo.png
+        start_date: 2020
+        end_date: 2024-09
+
+    # Experience:
+    #   - company: Institute for Advanced Study, Princeton University
+    #     position: Professor of Theoretical Physics
+    #     location: Princeton University, NJ
+    #     start_date: 1933
+    #     end_date: 1955
+    #     summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+    #     highlights:
+    #       - Relativity
+    #       - Description 2.
+
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
+
+    # Awards:
+    #   - title: Nobel Prize in Physics
+    #     authors:
+    #       - "Royal Swedish Academy of Sciences"
+    #     date: 1921-11-01
+    #     awarder: Royal Swedish Academy of Sciences
+    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+
+    # Publications:
+    #   - title: Zur Elektrodynamik bewegter Körper
+    #     authors:
+    #       - Albert Einstein
+    #     publisher: Annalen der Physik
+    #     releaseDate: 1905-06-30
+    #     url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+    #     summary: It concerned an interpretation of the Michelson-Morley experiment and the properties of light and time.
+
+    # Skills:
+    #   - name: Physics
+    #     level: Master
+    #     icon: fa-solid fa-hashtag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    # Languages:
+    #   - name: German
+    #     summary: "Native speaker"
+    #   - name: English
+    #     summary: "Fluent"
+
+    # Interests:
+    #   - name: Physics
+    #     icon: fa-solid fa-tag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
+
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
+
+    # References:
+    #   - name: Professor John Doe
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
