@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ori.ox.ac.uk/'>Oxford Robotics Institute</a>. Dynamic Robot Systems Group.
+subtitle: University of Oxford, <a href='https://www.ori.ox.ac.uk/'>Oxford Robotics Institute</a>. <a href='https://dynamic.robots.ox.ac.uk/'>Dynamic Robot Systems Group</a>.
 
 profile:
   align: right
@@ -30,6 +30,8 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D student at the University of Oxford, based in the Oxford Robotics Institute, supervised by Maurice Fallon in the Dynamic Robot Systems group. My research interests lie broadly in robotic perception. My current focus is on semantic scene understanding, 3D reconstruction, and spatio-temporal, long-term robotics, with applications to industrial settings such as warehouses, construction sites, and urban monitoring and inspection scenarios.
+I'm a Ph.D student at the University of Oxford, based in the Oxford Robotics Institute, supervised by [Maurice Fallon](https://ori.ox.ac.uk/people/maurice-fallon) in the [Dynamic Robot Systems group](https://dynamic.robots.ox.ac.uk/). My research interests lie in long-term robotic perception and autonomy. Prior to this, I completed my MEng at the University of Oxford, where I contributed to [Digiforest](https://digiforest.eu/project/), an EU research project on forest robotics, developing robust localization and mapping methods for challenging forest environments.
 
-Prior to this, I completed my MEng at the University of Oxford, where I contributed to Digiforest, an EU research project on forest robotics, developing robust localization and mapping methods for challenging forest environments.
+**Research Topics:** semantic scene understanding, 3D reconstruction, and spatio-temporal mapping.
+
+**Applications:** industrial and field robotics such as warehouses, construction sites, and urban environments, where mobile robots are used for inspection and monitoring.
