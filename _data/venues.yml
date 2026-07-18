@@ -1,3 +1,9 @@
 "IROS":
   url: https://www.iros2024-abudhabi.org/
   color: "#8a1c1c"
+"ICRA":
+  url: https://2025.ieee-icra.org/
+  color: "#b5651d"
+"T-FR":
+  url: https://www.ieee-ras.org/publications/t-fr
+  color: "#1b6e63"
