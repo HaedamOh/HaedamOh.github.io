@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-31'
 papers:
   ISDgG3MAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -8,6 +8,10 @@ papers:
   ISDgG3MAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: 'TreeLoc++: Robust 6-DoF LiDAR Localization in Forests with a Compact Digital Forest Inventory'
+    year: '2026'
+  ISDgG3MAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: 'OASIS-Map: Object-Level Change Detection in Multi-Session Mapping using Semantic Correspondence Matching'
     year: '2026'
   ISDgG3MAAAAJ:u-x6o8ySG0sC:
     citations: 20
@@ -18,6 +22,6 @@ papers:
     title: Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests
     year: '2024'
   ISDgG3MAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: 'TreeLoc: 6-DoF LiDAR Global Localization in Forests via Inter-Tree Geometric Matching'
     year: '2026'
